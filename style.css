@@ -1,6 +1,5 @@
 ul {
   list-style: none;
-  background-color: aquamarine;
   width: 100px;
   padding: 0;
   margin: 0;
@@ -9,4 +8,12 @@ ul {
 ul li {
   text-align: center;
   padding: 10px;
+  background-color: chartreuse;
+  font-weight: bold;
+  border: 3px solid black;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
 }
